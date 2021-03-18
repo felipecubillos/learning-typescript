@@ -1,0 +1,6 @@
+Core types:
+    - number (no integers or floats) any type of number.
+    - string (backtic, double quote or single quote)
+    - boolean -> true or false
+    - 
+

@@ -1,0 +1,4 @@
+- npm init
+- npm i --save-dev lite-server
+- add in scripts package.json "start": "lite'server"
+    - npm start para inciar el lite-server
